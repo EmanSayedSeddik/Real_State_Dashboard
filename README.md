@@ -1,6 +1,6 @@
 # 🏡 Egypt Real Estate – Power BI Sales Analysis
 
-![Cover](screenshots/cover.png)
+![Cover](screenshots/cover.jpg)
 
 A Power BI project that analyzes real estate sales in Egypt across branches, agents, property types, cities, and customer showings.
 
@@ -53,7 +53,7 @@ A high-level summary of overall business performance.
 - 📈 Monthly Sales Trend
 - 🎛️ Slicers: Year, Region, Property Type
 
-![Executive Overview](screenshots/executive-overview.png)
+![Executive Overview](screenshots/executive-overview.jpg)
 
 ---
 
@@ -68,7 +68,7 @@ Focuses on property types, pricing, and inventory.
 - 🏷️ Average Transaction Value by Zone (Luxury / Mid-Range / Economic)
 - 🌆 Sales by City
 
-![Property Analysis](screenshots/property-analysis.png)
+![Property Analysis](screenshots/property-analysis.jpg)
 
 ---
 
@@ -83,7 +83,7 @@ Compares branches and agents.
 - 🍩 Total Sales by Branch (share %)
 - 🎛️ Slicers: Region, Specialization (Commercial / Residential), Year
 
-![Agent & Branch Performance](screenshots/agent-branch-performance.png)
+![Agent & Branch Performance](screenshots/agent-branch-performance.jpg)
 
 ---
 
@@ -96,7 +96,7 @@ Tracks how customer showings turn into purchases.
 - 📈 Monthly Showing Trend
 - 💬 Showings by Customer Feedback (Negative / Neutral / Positive)
 
-![Showings & Conversion Funnel](screenshots/showings-conversion-funnel.png)
+![Showings & Conversion Funnel](screenshots/showings-conversion-funnel.jpg)
 
 ---
 
@@ -110,7 +110,7 @@ Analyzes performance by geography and zone.
 - 🗺️ Total Sales by City (map)
 - 🍩 Average Transaction Value by Zone
 
-![Location & Market Insights](screenshots/location-market-insights.png)
+![Location & Market Insights](screenshots/location-market-insights.jpg)
 
 ---
 
